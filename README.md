@@ -5,7 +5,7 @@ Final project for the Operating Systems course.
 Universidad Icesi.
 
 ## Requirements:
-- Python 3.xx
+- Python 3.x.x
 - Ubuntu or Lubuntu
 
 ### Steps for buidling the project:
