@@ -1,10 +1,10 @@
 # Process Monitor
-Final project for the course Operating Systems
-Authors: Jhoan Steven Delgado Villarreal, Andrés Zapata Orozco
-Professor: Juan Felipe Gómez
+Final project for the course Operating Systems.
+- Authors: Jhoan Steven Delgado Villarreal, Andrés Zapata Orozco
+- Professor: Juan Felipe Gómez
 Universidad Icesi.
 
-##Requirements:
+## Requirements:
 - Python 3.xx
 
 ### Steps for buidling the project:
