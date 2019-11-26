@@ -1,5 +1,5 @@
 # Process Monitor
-Final project for the course Operating Systems.
+Final project for the Operating Systems course.
 - Authors: Jhoan Steven Delgado Villarreal, Andrés Zapata Orozco
 - Professor: Juan Felipe Gómez
 Universidad Icesi.
