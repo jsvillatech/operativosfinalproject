@@ -6,6 +6,7 @@ Universidad Icesi.
 
 ## Requirements:
 - Python 3.xx
+- Ubuntu or Lubuntu
 
 ### Steps for buidling the project:
 1. Clone the repository (operativosfinalproject)
